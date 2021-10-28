@@ -35,6 +35,8 @@ s7HjostVDj9d0SA1eUjcr3aeRvplszX6btRI7wxUotkizzvMS
 
 # HELLO MY FREND
 
+
+
 ╔╦╦╦╦╦╦╦╦╦╦╗
 ╠╬╬╬╬╬╬╬╬╬╬╣
 ╠╬╬█╬╬╬╬█╬╬╣
@@ -43,3 +45,23 @@ s7HjostVDj9d0SA1eUjcr3aeRvplszX6btRI7wxUotkizzvMS
 ╠╬█╬╬╬╬╬╬█╬╣
 ╚╩╩╩╩╩╩╩╩╩╩╝ 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# DAHLAH
+
+
+
+
+#DEDE UYUN
