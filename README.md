@@ -2,7 +2,7 @@
 !GUNAKAN DENGAN SE GOBLOK² NYA!
 
 
-# run
+# MASUKAN PERINTAH! (TERMUX)
 
 $pkg update && pkg upgrade
 
@@ -20,4 +20,22 @@ $bash install.sh
 
 
 # Node
- # RECODE BY ikiwz-XD
+
+! Tank You My Allah Swt !
+
+ # RECODE 
+
+ $ BY ikiwz-XD $
+
+
+
+# HELLO MY FREND
+
+╔╦╦╦╦╦╦╦╦╦╦╗
+╠╬╬╬╬╬╬╬╬╬╬╣
+╠╬╬█╬╬╬╬█╬╬╣
+╠╬╬╬╬╬╬╬╬╬╬╣
+╠╬████████╬╣
+╠╬█╬╬╬╬╬╬█╬╣
+╚╩╩╩╩╩╩╩╩╩╩╝ 
+
