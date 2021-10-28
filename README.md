@@ -1,4 +1,4 @@
-# Brutal-Sms
+# :)
 !GUNAKAN DENGAN SE GOBLOK² NYA!
 
 
@@ -13,5 +13,11 @@ $pkg install git
 $pkg install bash
 
 $git clone https://guthub.com/ikiwz-XD/Brutal-Sms
+
 $cd Brutal-Sms
+
 $bash install.sh
+
+
+# Node
+ # RECODE BY ikiwz-XD
