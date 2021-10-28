@@ -19,6 +19,10 @@ $cd Brutal-Sms
 $bash install.sh
 
 
+# TOKEN
+s7HjostVDj9d0SA1eUjcr3aeRvplszX6btRI7wxUotkizzvMS
+
+
 # Node
 
 ! Tank You My Allah Swt !
