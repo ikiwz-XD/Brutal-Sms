@@ -1,0 +1,2 @@
+# Brutal-Sms
+!GUNAKAN DENGAN SE GOBLOK² NYA!
